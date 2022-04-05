@@ -17,7 +17,11 @@
             <p>Maak contact met ons op via:</p>
             <p>voorbeeld@email.com</p>
             <p>+31 6 12345678</p>
-        </div>
+
+            <img src="img/hoofdkantoor.jpg" alt="Hoofdkantoor">
+
+        </div>\
+        
 	</main>
 	<footer>
 		<?php

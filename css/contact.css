@@ -1,0 +1,14 @@
+.wrapper{
+    margin: 0 auto;
+    padding: 10px;
+    width: 60%;
+    background-color: yellow;
+    
+}
+body{
+	background-color: #4B6190;
+}
+.contact-block{
+    flex-direction: row;
+    padding-left: 100px;
+}

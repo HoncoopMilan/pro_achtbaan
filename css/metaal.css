@@ -1,0 +1,15 @@
+main{
+    background-color: #e5e6e6;
+}
+
+.text{
+    background-color: white;
+    display: flex;
+    align-content: center;
+    font-size: large;
+}
+
+.img{
+    display: flex;
+    justify-content: space-around;
+}

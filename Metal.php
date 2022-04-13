@@ -15,18 +15,18 @@
 	<main>
 		<div class="main-menu">
 			<div class="wrapper">
-			<h2>Lorem Ipsum</h2>
-				<div class="text">
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum voluptates deleniti, quis ea maiores atque quibusdam neque iste maxime perspiciatis laborum. 
-						Cupiditate culpa velit doloremque numquam consequatur ad iure Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo vel esse at animi suscipit quasi nemo laborum ea fuga itaque, nisi, nesciunt voluptates asperiores hic magni rerum minima obcaecati. Aut? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos excepturi eveniet eaque.
-						Nesciunt labore provident excepturi veritatis? Dolor consequatur corrupti numquam recusandae hic aperiam. Impedit distinctio sint quia ex error. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur ratione necessitatibus qui aut nobis accusantium atque dolores cumque deleniti corporis incidunt, nemo excepturi debitis. Fuga quasi debitis cum asperiores delectus.</p>
+				<div class="title">
+					<h2>Metaal</h2>
 				</div>	
+					<div class="text">
+						<p>Het eerste USP die wij voor deze achtbaan hebben ontwikkeld is een nieuwe metaal messing die nog nooit eerder in deze industrie gebruikt is. Door een menging te maken van 69% staal, 20% nikkel, en 11% koper hebben een nieuwe messing ontwikkeld die wij nu MagnaAlloy noemen. Met deze nieuwe MagnaAlloy maken wij een aantal onderdelen die de meeste stress ondergaan in de achtbaan, waardoor deze nog meer G-krachten kunnen weerstaan, en langer meegaan dan andere stalen. We hebben enorm geprobeerd de kosten zo laag mogelijk te houden, dat de onderdelen gemiddeld slechts 8% duurder uitvallen dan andere soortgelijke onderdelen, zonder kwaliteitsverlies. Onze tests bewijzen ook dat de onderdelen tot 25% langer meegaan, dus dit zou uiteindelijk ook in kosten moeten besparen. Ook zorgt dit ervoor dat een aantal designs voor achtbanen die eerder niet mogelijk waren nu wel mogelijk zijn.</p>
+					</div>	
 
-				<div class="img">
-					<img src="img/Metal.png" alt="Metal">
-					<img src="img/Workers.png" alt="Workers">
+					<div class="img">
+						<img src="img/Metal.png" alt="Metal">
+						<img src="img/Workers.png" alt="Workers">
+					</div>
 				</div>
-			</div>
 		</div>	
 	</main>
 	<footer>

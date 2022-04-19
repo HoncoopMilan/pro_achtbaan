@@ -4,3 +4,15 @@ header{
 a{
 	text-decoration: none;
 }
+footer{
+	text-align: center;
+	border-top: solid black 1px;
+	display: block;
+	
+	text-decoration: none;
+	color: yellow;
+	align-items: center;
+}
+footer a{
+	color: yellow;
+}

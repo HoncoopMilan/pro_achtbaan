@@ -1,0 +1,29 @@
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    background-color: #e5e6e6;
+}
+
+p{
+    padding: 10px;
+}
+
+.text{
+    background-color: white;
+    display: flex;
+    align-content: center;
+    font-size: larger;
+}
+
+.img{
+    display: flex;
+    justify-content: space-around;
+}
